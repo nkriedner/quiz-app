@@ -25,6 +25,6 @@ const quizData = [
         answer2: "Use spaces to separate words!",
         answer3: "Use maximum five letters as a professional standard!",
         answer4: "Use only capital letters for file names!",
-        solution: "Use spaces to separate words!",
+        solution: "Use self-describing filenames!",
     },
 ];
